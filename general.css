@@ -182,3 +182,9 @@ ul[class=yellow] > li > a:hover {
   color: #edd934;
   transition: all 0.5s;
 }
+
+input {
+background-color : #9cf;
+color : #000;
+}
+
