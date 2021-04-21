@@ -30,7 +30,9 @@ h1 {
 .flair {
   color: #0972D6;
 }
-
+.links {
+    color: #FF0000;
+}
 .main {
   display: inline-block;
   border-style: solid;
