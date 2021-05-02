@@ -6,6 +6,7 @@ This is a personal project & it's not fully polished and perfect.. I'm not a web
 I use this as my FireFox homepage using [NewTabOveride](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/)
 Plugin.
 
+`I use ARCH BTW`
 ### Live Demo: <a href="http://albonycal.github.io/startpage/">Demo</a>
 
 ### Default Home
